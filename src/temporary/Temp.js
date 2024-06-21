@@ -38,7 +38,7 @@ export default function Temp() {
             Contact Us
           </a>
           <a
-            href="#"
+            href="https://sitphotography.club"
             className="border-2 border-gray-800 text-black font-bold py-3 px-6 rounded dark:text-white dark:border-white"
           >
             Reload
